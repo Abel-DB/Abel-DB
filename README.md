@@ -32,17 +32,21 @@ Comparto mi aprendizaje en **Python, Linux, Tailwind y Laravel**, y creo conteni
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </span>
 
+<h4> Frameworks </h4>
+<span>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+</span>
+
+<h4> Databases </h4>
+<span>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</span>
+
 <h4> IDE / Tools </h4>
 <span>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white">
-</span>
-
-<h4> Other Tools </h4>
-<span>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
 </span>
 
 ---
