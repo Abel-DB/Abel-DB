@@ -33,6 +33,7 @@ github.com/Abel-DB
 
 
 ## Encuéntrame en
+
 <div align="start">
   <a href="https://tiktok.com/@abeldb736">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" />
@@ -45,9 +46,10 @@ github.com/Abel-DB
   </a>
 </div>
 
---
+
 
 ## Mis Habilidades Incluyen
+
 
 <h4> Lenguajes y Tecnologías </h4>
 <span> 
@@ -58,17 +60,19 @@ github.com/Abel-DB
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </span>
 
+
 <h4> Base de Datos </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
+
 
 <h4> IDE </h4>
 <span>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </span>
 
---
+
 
 ```python
 class AbelDB:
