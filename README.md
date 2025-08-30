@@ -66,6 +66,8 @@ github.com/Abel-DB
 
 <br>
 
+---
+
 ```python
 class AbelDB:
     
