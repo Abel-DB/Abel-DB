@@ -1,10 +1,10 @@
 <h1 align="center">
 Hi, I'm Abel DB!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  <img src="logo.png" width="30">
 </h1>
 
 <!-- Profile views -->
-<img src="logo.png" alt="Profile views" align='right'/>
+<img src="https://gpvc.arturio.dev/Abel-DB" alt="Profile views" align='right'/>
 
 <br/>
 
