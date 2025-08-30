@@ -1,6 +1,6 @@
 <h1 align="center">
 Hi, I'm Abel DB!
-  <img src="logo.png" width="30">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
 <!-- Profile views -->
@@ -16,7 +16,7 @@ Hi, I'm Abel DB!
 </p>
 
 <!-- Profile picture -->
-<img align="left" src="https://github.com/Abel-DB/Abel-DB/blob/main/tu_imagen.png" alt="Profile Picture" width="320" />
+<img align="left" src="logo.png" alt="Profile Picture" width="320" />
 <hr>
 
 Abel-DB@github
