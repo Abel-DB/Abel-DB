@@ -2,28 +2,8 @@
   <b>Abel DB</b>
 </h1>
 
-👋 ¡Hola! Soy **Abel DB**, un apasionado por la **ciberseguridad, programación y Linux**, actualmente viviendo en **La Paz, Bolivia**.  
-Comparto mi camino de aprendizaje en **Python, Linux, Tailwind y Laravel**, además de crear contenido en distintas plataformas.
-
----
-
-## 🚀 Tecnologías que manejo
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=282828">
-</div>
-
----
-
-## 📊 Mis estadísticas de aprendizaje
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-50%25-blue?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-50%25-black?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind-75%25-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-75%25-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-</div>
+👋 ¡Hola! Soy **Abel DB**, apasionado por **ciberseguridad, programación y Linux**, actualmente en **La Paz, Bolivia**.  
+Comparto mi aprendizaje en **Python, Linux, Tailwind y Laravel**, y creo contenido educativo en distintas plataformas.
 
 ---
 
@@ -39,6 +19,31 @@ Comparto mi camino de aprendizaje en **Python, Linux, Tailwind y Laravel**, adem
     <img src="https://img.shields.io/badge/Kick-00FF00?style=for-the-badge&logo=kick&logoColor=black" />
   </a>
 </div>
+
+---
+
+## My Skills Include
+
+<h4> Languages & Technologies </h4>
+<span> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+</span>
+
+<h4> IDE / Tools </h4>
+<span>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white">
+</span>
+
+<h4> Other Tools </h4>
+<span>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
+</span>
 
 ---
 
