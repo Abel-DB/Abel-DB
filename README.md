@@ -29,7 +29,8 @@ github.com/Abel-DB
 🚩 Interesado en Ciberseguridad
 🎵 Música: Rock clasico, Eurodisco, Electronica, Hip Hop, Jazz, Musica clasica y Balada romantica
 ```
----
+<hr>
+
 
 ## 🌎 Encuéntrame en
 <div align="center">
@@ -43,8 +44,6 @@ github.com/Abel-DB
     <img src="https://img.shields.io/badge/Kick-00FF00?style=for-the-badge&logo=kick&logoColor=black" />
   </a>
 </div>
-
----
 
 ## My Skills Include
 
@@ -68,8 +67,6 @@ github.com/Abel-DB
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </span>
-
----
 
 ## 📊 Código de ejemplo en Python
 ```python
