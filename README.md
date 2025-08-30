@@ -33,7 +33,7 @@ github.com/Abel-DB
 
 
 ## Encuéntrame en
-<div align="center">
+<div align="start">
   <a href="https://tiktok.com/@abeldb736">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
