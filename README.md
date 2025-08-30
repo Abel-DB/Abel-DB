@@ -33,7 +33,7 @@ github.com/Abel-DB
 
 
 ## Encuéntrame en
-
+<br>
 <div align="start">
   <a href="https://tiktok.com/@abeldb736">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" />
@@ -45,12 +45,10 @@ github.com/Abel-DB
     <img src="https://img.shields.io/badge/Kick-00FF00?style=for-the-badge&logo=kick&logoColor=black" />
   </a>
 </div>
-
-
+<br>
 
 ## Mis Habilidades Incluyen
-
-
+<br>
 <h4> Lenguajes y Tecnologías </h4>
 <span> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -59,20 +57,19 @@ github.com/Abel-DB
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </span>
-
+<br>
 
 <h4> Base de Datos </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
-
+<br>
 
 <h4> IDE </h4>
 <span>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </span>
-
-
+<br>
 
 ```python
 class AbelDB:
