@@ -3,7 +3,7 @@
 </h1>
 
 👋 ¡Hola! Soy **Abel DB**, un apasionado por la **ciberseguridad, programación y Linux**, actualmente viviendo en **La Paz, Bolivia**.  
-Comparto mi camino de aprendizaje en **Python, Linux y Ciberseguridad**, además de crear contenido en distintas plataformas.
+Comparto mi camino de aprendizaje en **Python, Linux, Tailwind y Laravel**, además de crear contenido en distintas plataformas.
 
 ---
 
@@ -17,7 +17,7 @@ Comparto mi camino de aprendizaje en **Python, Linux y Ciberseguridad**, además
 
 ---
 
-## 📊 Mis estadísticas de aprendizaje
+## 📊 Mis estadísticas de aprendizaje (Python ejecutable)
 ```python
 class AbelDB():
     
@@ -32,8 +32,14 @@ class AbelDB():
         "Laravel": "75%"
     }
   
-  def __str__(self):
-    return f"{self.name} | {self.location}"
+  def show_info(self):
+    print(f"👤 Nombre: {self.name}")
+    print(f"🔗 GitHub: https://github.com/{self.username}")
+    print(f"📍 Ubicación: {self.location}")
+    print("⚡ Habilidades:")
+    for skill, level in self.skills.items():
+        print(f"   - {skill}: {level}")
 
 if __name__ == '__main__':
     me = AbelDB()
+    me.show_info()
