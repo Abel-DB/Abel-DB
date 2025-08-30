@@ -4,14 +4,14 @@ Hi, I'm Abel DB!
 </h1>
 
 <!-- Profile views -->
-<img src="https://gpvc.arturio.dev/Abel-DB" alt="Profile views" align='right'/>
+<!-- <img src="https://gpvc.arturio.dev/Abel-DB" alt="Profile views" align='right'/> -->
 
 <br/>
 
-<!-- Typing SVG -->
+<!-- Typing SVG enfocado en Ciberseguridad -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Linux+Enthusiast;Ciberseguridad;Full+Stack+Web+Dev;Always+learning&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Ciberseguridad+|+Pentesting;Desarrollador+Python;Entusiasta+de+Linux;Apps+Seguras+Full+Stack;Siempre+Aprendiendo&center=true&width=500&height=45">
   </a>
 </p>
 
