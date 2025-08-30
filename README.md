@@ -42,12 +42,29 @@ Comparto mi camino de aprendizaje en **Python, Linux, Tailwind y Laravel**, adem
 
 ---
 
-## 📈 Estadísticas de GitHub
-<p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Abel-DB&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abel-DB&theme=gruvbox&hide_border=true" />
-</p>
+## 📊 Código de ejemplo en Python
+```python
+class AbelDB():
+    
+  def __init__(self):
+    self.name = "Abel DB"
+    self.username = "Abel-DB"
+    self.location = "La Paz, Bolivia"
+    self.skills = {
+        "Python": "50%",
+        "Linux": "50%",
+        "Tailwind": "75%",
+        "Laravel": "75%"
+    }
+  
+  def show_info(self):
+    print(f"👤 Nombre: {self.name}")
+    print(f"🔗 GitHub: https://github.com/{self.username}")
+    print(f"📍 Ubicación: {self.location}")
+    print("⚡ Habilidades:")
+    for skill, level in self.skills.items():
+        print(f"   - {skill}: {level}")
 
----
-
-✨ *Siempre aprendiendo, siempre compartiendo.*
+if __name__ == '__main__':
+    me = AbelDB()
+    me.show_info()
