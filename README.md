@@ -8,10 +8,10 @@ Hi, I'm Abel DB!
 
 <br/>
 
-<!-- Typing SVG enfocado en Ciberseguridad -->
+<!-- Typing SVG enfocado en Ciberseguridad y Python Hacking -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Ciberseguridad+|+Pentesting;Desarrollador+Python;Entusiasta+de+Linux;Apps+Seguras+Full+Stack;Siempre+Aprendiendo&center=true&width=500&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Ciberseguridad+|+Hacking+Ético;Python+Hacking;OSINT+Con+Python;Explotación+de+Vulnerabilidades;Siempre+Aprendiendo&center=true&width=500&height=45">
   </a>
 </p>
 
