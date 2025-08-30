@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Abel DB!
+¡Hola, soy Abel DB!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
@@ -32,7 +32,7 @@ github.com/Abel-DB
 <hr>
 
 
-## 🌎 Encuéntrame en
+## Encuéntrame en
 <div align="center">
   <a href="https://tiktok.com/@abeldb736">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" />
@@ -45,9 +45,9 @@ github.com/Abel-DB
   </a>
 </div>
 
-## My Skills Include
+## Mis Habilidades Incluyen
 
-<h4> Languages & Technologies </h4>
+<h4> Lenguajes y Tecnologías </h4>
 <span> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -68,7 +68,7 @@ github.com/Abel-DB
   <img src="https://img.shields.io/badge/Linux-Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </span>
 
-## 📊 Código de ejemplo en Python
+## Código de ejemplo en Python
 ```python
 class AbelDB():
     
