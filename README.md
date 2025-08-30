@@ -19,15 +19,16 @@ Hi, I'm Abel DB!
 <img align="left" src="logo.png" alt="Profile Picture" width="320" />
 <hr>
 
-Abel-DB@github
-💻 Apasionado por Python, Linux y desarrollo web Full Stack
+```
+github.com/Abel-DB
+💻 Apasionado por la Ciberseguridad
 📍 Vivo en La Paz, Bolivia
 🔭 Trabajando en proyectos de Ciberseguridad y Python
-🌱 Aprendiendo Tailwind, Laravel y DevOps
-🌟 Principales lenguajes: Python, PHP, JavaScript
-🚩 Interesado en desarrollo Full Stack y aplicaciones de ciberseguridad
-🎵 Música: metal, lofi, jazz y soft
-
+🌱 Aprendiendo Python, Linux y Ciberseguridad
+🌟 Principal lenguaje: Python
+🚩 Interesado en Ciberseguridad
+🎵 Música: Rock clasico, Eurodisco, Electronica, Hip Hop, Jazz, Musica clasica y Balada romantica
+```
 ---
 
 ## 🌎 Encuéntrame en
