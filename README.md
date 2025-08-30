@@ -45,6 +45,8 @@ github.com/Abel-DB
   </a>
 </div>
 
+--
+
 ## Mis Habilidades Incluyen
 
 <h4> Lenguajes y Tecnologías </h4>
@@ -65,6 +67,8 @@ github.com/Abel-DB
 <span>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </span>
+
+--
 
 ```python
 class AbelDB:
