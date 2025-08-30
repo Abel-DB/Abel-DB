@@ -70,27 +70,47 @@ github.com/Abel-DB
 
 ## Código de ejemplo en Python
 ```python
-class AbelDB():
+class AbelDB:
     
-  def __init__(self):
-    self.name = "Abel DB"
-    self.username = "Abel-DB"
-    self.location = "La Paz, Bolivia"
-    self.skills = {
-        "Python": "50%",
-        "Linux": "50%",
-        "Tailwind": "75%",
-        "Laravel": "75%"
-    }
-  
-  def show_info(self):
-    print(f"👤 Nombre: {self.name}")
-    print(f"🔗 GitHub: https://github.com/{self.username}")
-    print(f"📍 Ubicación: {self.location}")
-    print("⚡ Habilidades:")
-    for skill, level in self.skills.items():
-        print(f"   - {skill}: {level}")
+    def __init__(self):
+        self.name = "Abel DB"
+        self.username = "Abel-DB"
+        self.location = "La Paz, Bolivia"
+        self.socials = {
+            "TikTok": "https://tiktok.com/@abeldb736",
+            "YouTube": "https://youtube.com/@abeldb5724",
+            "Kick": "https://kick.com/abeldb"
+        }
+        self.learning = [
+            "Fundamentos de Python",
+            "Google Hacking y Automatización",
+            "OSINT con Python",
+            "Escaneo y análisis de redes",
+            "Análisis de vulnerabilidades",
+            "Explotación de vulnerabilidades en hosts",
+            "Explotación de redes",
+            "Explotación de aplicaciones web",
+            "Post-explotación y evasión de defensas"
+        ]
+    
+    def show_info(self):
+        print(f"👤 Nombre: {self.name}")
+        print(f"🔗 GitHub: https://github.com/{self.username}")
+        print(f"📍 Ubicación: {self.location}")
+    
+    def show_socials(self):
+        print("🌐 Redes Sociales:")
+        for platform, link in self.socials.items():
+            print(f"   - {platform}: {link}")
+    
+    def show_learning(self):
+        print("📚 Estoy aprendiendo:")
+        for item in self.learning:
+            print(f"   - {item}")
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     me = AbelDB()
     me.show_info()
+    me.show_socials()
+    me.show_learning()
+
