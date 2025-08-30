@@ -16,7 +16,7 @@ Hi, I'm Abel DB!
 </p>
 
 <!-- Profile picture -->
-<img align="left" src="logo.png" alt="Profile Picture" width="320" />
+<img align="left" src="logo.png" alt="Profile Picture" width="250" />
 <hr>
 
 ```
