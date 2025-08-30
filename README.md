@@ -4,7 +4,7 @@ Hi, I'm Abel DB!
 </h1>
 
 <!-- Profile views -->
-<img src="https://gpvc.arturio.dev/Abel-DB" alt="Profile views" align='right'/>
+<img src="copia de c.png" alt="Profile views" align='right'/>
 
 <br/>
 
